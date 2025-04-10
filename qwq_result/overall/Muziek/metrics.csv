@@ -1,0 +1,2 @@
+subject,samples,qwk,fisher_z,recovered_kappa,pearson,p_value,auc,accuracy,kappa
+Muziek,18,0.8064516129032258,1.116796110753547,0.8064516129032258,0.9552008998760875,7.085976507979051e-10,1.0,1.0,1.0
